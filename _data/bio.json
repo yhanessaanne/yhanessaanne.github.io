@@ -32,18 +32,28 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
-        "Javascript",
-        "HTML",
-        "CSS",
+        "C/C++",
+        "JavaScript",
+        "HTML/CSS",
+        "C#",
+        "Python",
+        "SQL",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "keywords": [
+        "React",
         "Meteor",
         "Semantic UI",
-        "React"
+        "Bootstrap",
+        "PHP Slim"
       ]
     },
     {
@@ -55,7 +65,8 @@
         "Eclipse",
         "Git/GitHub",
         "Unix",
-        "IntelliJ"
+        "IntelliJ",
+        "Unity Game Engine"
       ]
     }
   ],
@@ -68,21 +79,28 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
-        "Intro to Computer Science I & II (ICS 111 & ICS 211)",
-        "Discrete Math for CS I & II (ICS 141 & ICS 241)",
-        "Program Structure (ICS 212)",
-        "Software Engineering (ICS 314)",
-        "Algorithms (ICS 311)",
-        "Database Systems I (ICS 321)",
-        "Machine Level & Systems Programming (ICS 312)",
-        "Operating Systems (ICS 332)",
-        "Data Networks (ICS 451)"
+        "ICS 111 - Introduction to Computer Science I (Java Programming)",
+        "ICS 211 - Introduction to Computer Science II (Data Structures)",
+        "ICS 212 - Program Structure (C/C++)",
+        "ICS 141 - Discrete Mathematics I",
+        "ICS 241 - Discrete Mathematics II",
+        "ICS 311 - Algorithms",
+        "ICS 312 - Machine-Level and Systems Programming",
+        "ICS 314 - Software Engineering I",
+        "ICS 321 - Database Systems I",
+        "ICS 332 - Operating Systems",
+        "ICS 390 - Computing Ethics for LAs",
+        "ICS 369 - Computational Media Systems",
+        "ICS 414 - Software Engineering II",
+        "ICS 427 - Software Quality Assurance", 
+        "ICS 451 - Data Networks",
+        "ICS 496 - Capstone Project"
       ]
     }
   ],
   "work": [
     {
-      "company": "Royal Sonesa Kauai Resort",
+      "company": "Royal Sonesta Kauai Resort",
       "position": "Banquet Server",
       "website": "https://www.sonesta.com/royal-sonesta/hi/lihue/royal-sonesta-kauai-resort-lihue",
       "startDate": "2022-06-27",
