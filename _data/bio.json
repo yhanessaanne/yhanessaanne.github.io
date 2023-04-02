@@ -100,6 +100,32 @@
   ],
   "work": [
     {
+      "company": "Business Solution Technologies",
+      "position": "Web App Developer Internship",
+      "website": "https://bstusa.com/",
+      "startDate": "2023-02-06",
+      "endDate": "Present",
+      "summary": "",
+       "highlights": [
+        "Develop a functionality to enhance the contextual fields of a web application for an agency that issues licenses for school educators in Hawai’i, providing valuable insights for the agency to improve their overall processes and service to users",
+        "Resolving the problem will result in accurate data being sent to the system and clients",
+        "Apply a hybrid of Waterfall and Agile approach for project management",
+        "Utilize a Model-View-Controller web framework with these underlying tools: Bootstrap CSS, jQuery, Twig UI template engine, PHP Slim micro framework, MySQL, Git, NetBeans, MySQL Workbench"
+      ]
+    },
+    {
+      "company": "UH Manoa Kennedy Theatre",
+      "position": "Website Assistant",
+      "website": "",
+      "startDate": "2022-09-27",
+      "endDate": "Present",
+      "summary": "",
+       "highlights": [
+        "Utilize WordPress, HTML, and PHP to create appealing elements to enhance the current theatre website by improving user interface and experience and organizing content",
+        "Apply technical skills and attention to detail to ensure a user-friendly and easy-to-navigate site that accurately represents the theatre and its offerings to attract a wider audience"
+      ]
+    },
+    {
       "company": "Royal Sonesta Kauai Resort",
       "position": "Banquet Server",
       "website": "https://www.sonesta.com/royal-sonesta/hi/lihue/royal-sonesta-kauai-resort-lihue",
@@ -107,9 +133,9 @@
       "endDate": "2022-08-06",
       "summary": "",
        "highlights": [
-        "Greeted and welcomed guests as they enter the venue",
-        "Assisted with event preparation, set up, and closing by following a set of instructionss",
-        "Responded to guests’ questions, complaints, and requests in a timely manner"
+        "Greeted and welcomed guests as they enter the venue, using interpersonal skills to establish a sense of trust and ensuring a positive experience for all guests",
+        "Assisted with event preparation for events up to 300 guests, ensuring smooth execution while maintaining high standards of quality and attention to detail",
+        "Responded to guest’s questions, complaints, and requests in a timely manner, utilizing excellent customer service skills to provide comprehensive solutions and ensure guest satisfaction"
       ]
     },
     {
