@@ -10,9 +10,7 @@
     "location": { "address": "", "postalCode": "", "city": "", "countryCode": "", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "yhanessaanne", "url": "https://github.com/yhanessaanne" },
-      { "network": "linkedin", "username": "ysales", "url": "https://www.linkedin.com/in/ysales/" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "ysales", "url": "https://www.linkedin.com/in/ysales/" }
     ]
   },
   "interests": [
