@@ -15,7 +15,7 @@ labels:
 summary: Final Project for my Software Engineering class. stUHdy Cubby is a web application to encourage ICS students to study with their classmates and peer mentors
 ---
 
-<img class="ui floated image" src="../img/final_homepage.png">
+<img class="img-fluid rounded mx-auto d-block" src="../img/final_homepage.png">
 
 ## About stUHdy Cubby
 stUHdy Cubby is a web application catered to UH Manoa students majoring in Information and Computer Science (ICS). The purpose of this application is to encourage ICS students to study face-to-face with classmates and peer mentors, in order to effectively learn and understand course material. This is because sometimes it can be difficult to study on their own due to distractions and the need for external help. stUHdy Cubby enables ICS students to easily register and create study sessions for various types of work, such as projects, homework, and exam preparation.
