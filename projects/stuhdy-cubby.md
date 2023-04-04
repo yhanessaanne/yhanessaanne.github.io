@@ -30,5 +30,6 @@ My group consisted of two other people, and my contribution to the project inclu
 Creating this web application required me to remember everything I had learned from the beginning of my software engineering class, and to apply that knowledge to this project. IDPM taught me that any large project can be tackled when it is broken down into smaller parts. As a result of this project, I was able to enhance my proficiency in working with React, Semantic UI, and MongoDB, and gained a deeper understanding of their capabilities and functionalities.
 
 Our <a href="https://github.com/stuhdy-cubby">GitHub Organization Page</a>
+<br>
 Our <a href="https://stuhdy-cubby.github.io/">Documentation</a>
 
