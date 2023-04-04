@@ -11,6 +11,7 @@ labels:
   - Software Engineering
   - Semantic UI
   - Meteor
+  - React
 summary: Final Project for my Software Engineering class. stUHdy Cubby is a web application to encourage ICS students to study with their classmates and peer mentors
 ---
 
