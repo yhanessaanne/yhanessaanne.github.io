@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/h4d-logo.png
+image: img/h4d-logo-resize.png
 title: Hacking for Defense Project
 permalink: projects/h4d-project
 # All dates must be YYYY-MM-DD format!
