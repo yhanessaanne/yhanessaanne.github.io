@@ -1,0 +1,213 @@
+{
+  "basics": {
+    "name": "Yhanessa Anne Sales",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/77658704?v=4",
+    "email": "ysales@hawaii.edu",
+    "phone": "",
+    "website": "https://yhanessaanne.github.io",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
+    "location": { "address": "", "postalCode": "", "city": "", "countryCode": "", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "yhanessaanne", "url": "https://github.com/yhanessaanne" },
+      { "network": "linkedin", "username": "ysales", "url": "https://www.linkedin.com/in/ysales/" }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Human Computer Interaction",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "UI/UX Design",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Java",
+        "C/C++",
+        "JavaScript",
+        "HTML/CSS",
+        "C#",
+        "Python",
+        "SQL",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "keywords": [
+        "React",
+        "Meteor",
+        "Semantic UI",
+        "Bootstrap",
+        "PHP Slim"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "Windows",
+        "MacOS",
+        "Eclipse",
+        "Git/GitHub",
+        "Unix",
+        "IntelliJ",
+        "Unity Game Engine"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2023)",
+      "studyType": "B.A.",
+      "startDate": "2019-08-26",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+        "ICS 111 - Introduction to Computer Science I (Java Programming)",
+        "ICS 211 - Introduction to Computer Science II (Data Structures)",
+        "ICS 212 - Program Structure (C/C++)",
+        "ICS 141 - Discrete Mathematics I",
+        "ICS 241 - Discrete Mathematics II",
+        "ICS 311 - Algorithms",
+        "ICS 312 - Machine-Level and Systems Programming",
+        "ICS 314 - Software Engineering I",
+        "ICS 321 - Database Systems I",
+        "ICS 332 - Operating Systems",
+        "ICS 390 - Computing Ethics for LAs",
+        "ICS 369 - Computational Media Systems",
+        "ICS 414 - Software Engineering II",
+        "ICS 427 - Software Quality Assurance", 
+        "ICS 451 - Data Networks",
+        "ICS 496 - Capstone Project"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Business Solution Technologies",
+      "position": "Web App Developer Internship",
+      "website": "https://bstusa.com/",
+      "startDate": "2023-02-06",
+      "endDate": "Present",
+      "summary": "",
+       "highlights": [
+        "Develop a functionality to enhance the contextual fields of a web application for an agency that issues licenses for school educators in Hawai’i, providing valuable insights for the agency to improve their overall processes and service to users",
+        "Resolving the problem will result in accurate data being sent to the system and clients",
+        "Apply a hybrid of Waterfall and Agile approach for project management",
+        "Utilize a Model-View-Controller web framework with these underlying tools: Bootstrap CSS, jQuery, Twig UI template engine, PHP Slim micro framework, MySQL, Git, NetBeans, MySQL Workbench"
+      ]
+    },
+    {
+      "company": "UH Manoa Kennedy Theatre",
+      "position": "Website Assistant",
+      "website": "",
+      "startDate": "2022-09-27",
+      "endDate": "Present",
+      "summary": "",
+       "highlights": [
+        "Utilize WordPress, HTML, and PHP to create appealing elements to enhance the current theatre website by improving user interface and experience and organizing content",
+        "Apply technical skills and attention to detail to ensure a user-friendly and easy-to-navigate site that accurately represents the theatre and its offerings to attract a wider audience"
+      ]
+    },
+    {
+      "company": "Royal Sonesta Kauai Resort",
+      "position": "Banquet Server",
+      "website": "https://www.sonesta.com/royal-sonesta/hi/lihue/royal-sonesta-kauai-resort-lihue",
+      "startDate": "2022-06-27",
+      "endDate": "2022-08-06",
+      "summary": "",
+       "highlights": [
+        "Greeted and welcomed guests as they enter the venue, using interpersonal skills to establish a sense of trust and ensuring a positive experience for all guests",
+        "Assisted with event preparation for events up to 300 guests, ensuring smooth execution while maintaining high standards of quality and attention to detail",
+        "Responded to guest’s questions, complaints, and requests in a timely manner, utilizing excellent customer service skills to provide comprehensive solutions and ensure guest satisfaction"
+      ]
+    },
+    {
+      "company": "Luau Kalamaku",
+      "position": "Cashier",
+      "website": "https://www.luaukalamaku.com/",
+      "startDate": "2021-06-01",
+      "endDate": "2022-08-05",
+      "summary": "",
+       "highlights": [
+        "Greeted and welcome over 600 guests each work day",
+        "Assessed guest needs in a timely manner and provide solutions",
+        "Validated guest reservations by using an online booking software called FareHarbor",
+        "Managde guest arrivals through phone calls"
+      ]
+    },
+    {
+      "company": "Oasis on the Beach",
+      "position": "Dining Room Busser",
+      "website": "https://oasiskauai.com/",
+      "startDate": "2021-09-04",
+      "endDate": "2021-12-18",
+      "summary": "",
+       "highlights": [
+        "Greeted newly seated guests to offer water",
+        "Supported waitstaff to ensure the satisfaction of guests",
+        "Ensured a clean and sanitized table after guests' departure",
+        "Multitasked in a fast-paced environment by cleaning and setting tables in a timely manner while performing side tasks"
+      ]
+    }
+    ],
+  "volunteer": [
+    {
+      "organization": "University of Hawaii Bands",
+      "website": "http://www.uhbands.org/",
+      "position": "Clarinet Member",
+      "startDate": "2019",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "ICSpark",
+      "website": "https://icspark.github.io/",
+      "position": "Mentor",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+    ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "2020 - Present",
+      "awarder": "University of Hawaii",
+      "summary": "Awarded to Undergraduate students who earned a semester grade point average of 3.5 or higher based on 12 or more credits"
+    },
+    {
+      "title": "B+ Scholarship",
+      "date": "2019-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+     
+      "reference": ""
+    }
+  ]
+}
